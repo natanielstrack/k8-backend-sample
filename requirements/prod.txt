@@ -1,0 +1,4 @@
+Django==2.0.13
+django-extensions==2.1.6
+djangorestframework==3.9.2
+requests==2.21.0
